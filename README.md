@@ -1,4 +1,4 @@
-<h1 align="center"><strong>✌️Hello, Data Structures & Algorithms✌️ </strong></h1>
+<h1 align="center"><strong>👍Hello, Data Structures & Algorithms👍 </strong></h1>
 
 > This repository begin at 30th Apr. 2022, inspired by game algorithms.
 
